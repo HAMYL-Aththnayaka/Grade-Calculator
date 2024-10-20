@@ -1,4 +1,4 @@
-/*Write a java program to find the grade based on the score obtained by student 
+/* a java program to find the grade based on the score obtained by student 
 SCORE   GRADE
 90-100		A
 80-89		B
